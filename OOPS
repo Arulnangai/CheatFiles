@@ -1,0 +1,33 @@
+Class
+    (Declaration should not be inside the method)
+    A collection of similar properties of Object 
+
+Object
+    AN exapmle or instance of class
+
+Current Object 
+    Main .(dot) will be
+
+Abstraction
+    Highlighting essential things without including background details ie. implementation part
+
+Encapsulation
+    Wrapping of more than one things into a single unit
+      eg. A class which wraps the data and the methods which acts on that data into a single unit
+
+Inheritance(Reusability)
+    Acquiring the properties of one class by the another for the purpose of reusability
+
+Super class - A class which gives its proprties to another class 
+sub class - A class which gets the property of another class
+
+Polymorphism
+    Ability of an object to act in many forms in different places 
+
+Message Passing 
+    Communication exists between classes, objects, methods, etc..,
+
+Dynamic binding 
+    Communitcaltion exists during run time 
+
+
